@@ -1,6 +1,6 @@
-#Loja de Jogos
+# Loja de Jogos
 
-##Integrantes
+## Integrantes
 
 - Ana Clara Ribeiro Quixabeira (R.A. 26.1.13720)
 - Katariny de Jesus Barreto (R.A. 26.1.13712)
